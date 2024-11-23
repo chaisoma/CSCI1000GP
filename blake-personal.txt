@@ -1,1 +1,9 @@
 Blake Ojera
+
+Age: 18
+
+Interests: Computer Science, Football, Ping Pong, Chess, Videosgames
+
+Skills: C#, Java, C++, Python, JavaScript, React, Nextjs
+
+Goals: I want to get a job as a Website developer of software engineer. I am looking to get an internshhip at a tech company this summer so I can get more experience and add to my resume.
